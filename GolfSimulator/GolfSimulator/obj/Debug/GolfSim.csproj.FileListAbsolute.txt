@@ -1,0 +1,10 @@
+C:\Users\Boppwll\source\repos\footballGame\footballGame\bin\Debug\footballGame.exe.config
+C:\Users\Boppwll\source\repos\footballGame\footballGame\bin\Debug\footballGame.exe
+C:\Users\Boppwll\source\repos\footballGame\footballGame\bin\Debug\footballGame.pdb
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.csproj.AssemblyReference.cache
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.Form1.resources
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.Properties.Resources.resources
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.csproj.GenerateResource.cache
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.csproj.CoreCompileInputs.cache
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.exe
+C:\Users\Boppwll\source\repos\footballGame\footballGame\obj\Debug\footballGame.pdb
